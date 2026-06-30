@@ -2,8 +2,6 @@
 name = "ib_async"
 requires-python = ">=3.10"
 version = "2.1.0"
-license = "BSD"
-license-files = ["LICENSE"]
 
 [tool.poetry]
 name = "ib_async"
@@ -11,7 +9,7 @@ version = "2.1.0"
 description = "Python sync/async framework for Interactive Brokers API"
 authors = ["Ewald de Wit"]
 maintainers = ["Matt Stancliff <matt@matt.sh>"]
-license = "BSD"
+ 
 readme = "README.md"
 include = ["ib_async/py.typed"]
 
